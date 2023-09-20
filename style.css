@@ -81,6 +81,12 @@ p {
     margin: 10px;
 }
 
+img {
+    height: 350px;
+    width: auto;
+    border-radius: 5px;
+}
+
 .email {
     display: flex;
     justify-content: center;
@@ -91,4 +97,5 @@ p {
 
 .email:hover {
     text-decoration: underline;
+    color: #ff895d;
 }
